@@ -1,1 +1,1 @@
-# Repo example using nx module federation
+# This is an example of a monorepo that uses nx module federation
