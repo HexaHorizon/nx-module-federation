@@ -1,1 +1,1 @@
-# nx-module-federation
+# Repo example using nx module federation
